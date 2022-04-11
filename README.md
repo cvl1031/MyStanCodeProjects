@@ -2,7 +2,7 @@
 Hello there!\
 This respository holds my programming projects done during the period of StanCode courses.
 
-Wathch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ)*
+Wathch my *[DEMO VIDEOS](https://www.youtube.com/playlist?list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ)！*
 
 ・[Steeple Chase](https://www.youtube.com/watch?v=-vKpiNtGHh4&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=1)\
 ・[Beeper Raws Adventure](https://www.youtube.com/watch?v=3m4lTwfEYz4&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=2)\
