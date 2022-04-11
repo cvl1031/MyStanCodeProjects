@@ -1,4 +1,4 @@
-## MyStanCodeProjects
+## My StanCode Projects
 Hello there!\
 This respository holds my programming projects done during the period of StanCode courses.
 
