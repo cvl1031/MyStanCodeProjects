@@ -13,9 +13,13 @@ Wathch my *[DEMO VIDEOS](https://www.youtube.com/playlist?list=PLLH6tzfALDe6zw4Z
 ・[Boggle Game Solver](https://www.youtube.com/watch?v=Lifc6Q03aO0&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=7)\
 
 ## Project Source Codes :
-1. [Steeple Chase](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/Steeplechase.py)
-   _ python semantics & syntax \
+1. [Steeple Chase](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/Steeplechase.py)\
+   ・python semantics & syntax \
 2. [Beeper Raws Adventure](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/BeeperRowAdv.py)\
-・[Infinite Loop](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/InfiniteLoop.py)\
-・[Move To The End](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/MoveToTheEnd.py)\
-・[PotholeFilling](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/PotholeFilling.py)\
+   ・python semantics & syntax \
+3. [Infinite Loop](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/InfiniteLoop.py)\
+   ・python semantics & syntax \
+4. [Move To The End](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/MoveToTheEnd.py)\
+   ・python semantics & syntax \
+5. [PotholeFilling](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/PotholeFilling.py)\
+   ・python semantics & syntax \
