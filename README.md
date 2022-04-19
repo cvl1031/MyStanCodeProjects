@@ -1,4 +1,4 @@
-## My StanCode Projects
+## Vincent's StanCode Projects
 Hello there!\
 This respository holds my programming projects done during the period of StanCode courses.
 
@@ -10,7 +10,7 @@ Wathch my *[DEMO VIDEOS](https://www.youtube.com/playlist?list=PLLH6tzfALDe6zw4Z
 ・[Weather Master](https://www.youtube.com/watch?v=8f_f110oRy0&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=4)\
 ・[Hangman Game](https://www.youtube.com/watch?v=SwmmDmlTKk0&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=5)\
 ・[Breakout Game](https://www.youtube.com/watch?v=u9713sP6kBQ&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=6)\
-・[Boggle Game Solver](https://www.youtube.com/watch?v=Lifc6Q03aO0&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=7)\
+・[Boggle Game Solver](https://www.youtube.com/watch?v=Lifc6Q03aO0&list=PLLH6tzfALDe6zw4Z0asWDlPhKkks8yltJ&index=7)
 
 ## Project Source Codes :
 1. [Steeple Chase](https://github.com/cvl1031/MyStanCodeProjects/blob/main/StanCodeProjects/Steeplechase.py)\
